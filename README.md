@@ -1,6 +1,6 @@
 # Grade Calculator & Alert System.
 
-- A beginner Python automation project that tracks your grades, calculates your GPA, and warns you when you're at risk.
+- A Python automation project that tracks your grades, calculates your GPA, and warns you when you're at risk.
 
 ---
 
